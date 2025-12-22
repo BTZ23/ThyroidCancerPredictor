@@ -1,0 +1,23 @@
+Package: ThyroidCancerPredictor
+Title: Thyroid Cancer Diagnosis Predictor
+Version: 0.1.0
+Authors@R: 
+    person(given = "Student",
+           family = "Name",
+           role = c("aut", "cre"),
+           email = "student@university.edu")
+Description: A machine learning model for predicting thyroid cancer diagnosis 
+    (Benign vs Malignant) based on clinical features. The model is a Random 
+    Forest classifier trained on the Thyroid Cancer Risk dataset from Kaggle.
+License: MIT
+Encoding: UTF-8
+LazyData: false
+Imports:
+    dplyr,
+    caret,
+    ranger
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 7.2.3
