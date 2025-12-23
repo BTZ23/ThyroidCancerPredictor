@@ -74,7 +74,7 @@ clinical/demographic features.
 
 <img src="inst/figures/roc_curve.png" alt="ROC Curve for Thyroid Cancer Prediction Model (AUC = 0.6147)" width="1801" />
 <p class="caption">
-ROC Curve for Thyroid Cancer Prediction Model (AUC = 0.6147)
+ROC Curve for Thyroid Cancer Prediction Model (AUC = 0.616)
 </p>
 
 </div>
@@ -173,3 +173,4 @@ platforms.
 ## License
 
 MIT License. See `LICENSE` file for details.
+
