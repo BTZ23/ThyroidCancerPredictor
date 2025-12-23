@@ -64,7 +64,7 @@ The Random Forest model was trained on 212,691 samples with 14 clinical/demograp
 - **F1 Score**: 0.4687
 
 ### 1. ROC Curve
-```{r roc_plot, echo=FALSE, fig.cap="ROC Curve for Thyroid Cancer Prediction Model (AUC = 0.6147)"}
+```{r roc_plot, echo=FALSE, fig.cap="ROC Curve for Thyroid Cancer Prediction Model (AUC = 0.616)"}
 knitr::include_graphics("inst/figures/roc_curve.png")
 ```
 
@@ -122,4 +122,5 @@ This R package was developed as part of the **BIO215 Capstone Project**. The pro
 - **Dataset Source**: https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset  
 
 ## License
+
 MIT License. See `LICENSE` file for details.
