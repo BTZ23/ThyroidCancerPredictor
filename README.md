@@ -61,7 +61,7 @@ clinical/demographic features.
 
 ### Key Metrics:
 
-- **AUC (Area Under ROC Curve)**: 0.6147
+- **AUC (Area Under ROC Curve)**: 0.616
 - **Accuracy**: 0.5096
 - **Sensitivity (Recall)**: 0.7253
 - **Specificity**: 0.4442
@@ -173,4 +173,5 @@ platforms.
 ## License
 
 MIT License. See `LICENSE` file for details.
+
 
